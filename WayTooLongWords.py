@@ -1,4 +1,4 @@
-
+# the link the problem: https://codeforces.com/problemset/problem/71/A
 
 def solve(word):
     if len(word) <= 10:
